@@ -84,13 +84,13 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/logo" />
+                    android:src="@drawable/logo_map" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:text="IVELS Library" />
+                    android:text="IVELS Map" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -140,13 +140,13 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/logo" />
+                    android:src="@drawable/logo_schedule" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:text="IVELS Learning" />
+                    android:text="IVELS Schedule" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -202,7 +202,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
-                    android:text="IVELS Schedule" />
+                    android:text="IVELS Library" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
